@@ -1,5 +1,5 @@
 # instagramFollowerBot
-A Python bot that logs into Instagram and follows all followers of a specific account.
+A Python script that logs into Instagram and follows all followers of a specific account.
 
 ### Constants
 - CHROME_DRIVER_PATH: Path to your Selenium Webdriver
